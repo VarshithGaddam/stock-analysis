@@ -1,0 +1,7 @@
+# requirements.txt
+autogen>=0.2.0
+yfinance>=0.2.40
+matplotlib>=3.8.0
+openai>=1.66.3
+numpy==1.26.4      # Pin to a specific, stable version
+pandas==2.2.2      # Compatible with numpy 1.26.4 and yfinance
